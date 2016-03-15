@@ -1,0 +1,12 @@
+Package: singleCellRNASeqMouseZeiselBrain
+Maintainer: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
+Version: 0.99.0
+License: Artistic-2.0
+Title: single-cell RNA-seq data of mouse brain cells
+Description: Zeisel et al., 2015
+LazyData: yes
+Depends:
+    R (>= 2.10), Biobase (>= 2.26.0)
+biocViews: ExperimentData
+NeedsCompilation: no
+RoxygenNote: 5.0.1
