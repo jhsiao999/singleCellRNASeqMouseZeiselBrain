@@ -3,7 +3,12 @@ Maintainer: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
 Version: 0.99.0
 License: Artistic-2.0
 Title: single-cell RNA-seq data of mouse brain cells
-Description: Zeisel et al., 2015
+Description: This package stores Zeisel et al. data in an ExpressionSet object. Citation: Amit Zeisel, Ana B Munoz-Manchado, Simone Codeluppi, Peter Lönnerberg, Gioele La Manno, Anna Juréus, Sueli Marques, 
+Hermany Manguba, Liqun He, Christer Betsholtz, Charlott Rolny, 
+Goncalo Castelo-Branco, Jens Hjerling-Leffler, & Sten Linarsson. 
+Cell types in the mouse cortex and hippocampus revleaed by single-cell RNA-seq. 
+Science 34: 6226, 1138-1142 (2015) doi:10.1126/science.aaa1934
+
 LazyData: yes
 Depends:
     R (>= 2.10), Biobase (>= 2.26.0)
